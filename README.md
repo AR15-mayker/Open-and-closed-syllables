@@ -25,9 +25,8 @@
 *в открытом слоге гласные буквы читаются так же как в алфавите.*
 
 ***Закрытый слог:***
-
-**Если в слоге после гласной стоит одна или несколько согласных букв (кроме буквы r).
-Например: bad, cat, vet, strip, stop, camp, battle, end, center, pink.**
+*Если в слоге после гласной стоит одна или несколько согласных букв (кроме буквы r).
+Например: bad, cat, vet, strip, stop, camp, battle, end, center, pink.*
 
 ![image](https://github.com/user-attachments/assets/26ee3e5a-1ae1-4ee6-bb72-cde944a33560)
 
